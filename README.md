@@ -11,6 +11,6 @@
 
 - 💬 Ask me about **RageUI** and **Lua**
 
-- 📫 How to reach me **wiizz#0028 on Discord**
+- 📫 How to reach me **wiizz#0028** on **Discord**
 
 - ⚡ Fun fact **I am Funny**
