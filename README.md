@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BurgerDevWFG&label=Profile%20views&color=0e75b6&style=flat" alt="BurgerDevWFG" /> </p>
 
-- 🔭 I’m currently working on **a BIG FiveM server**
-
-- 🌱 I am also the founder of Wiki Fivem
+- 🔭 I’m currently working on **a BIG FiveM server to sell it**
 
 - 📫 How to reach me **wiizz#0028**
 
