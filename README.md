@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Somethings**
 
-- 💬 Ask me about **RageUI, Lua**
+- 💬 Ask me about **RageUI** and **Lua**
 
 - 📫 How to reach me **wiizz#0028 on Discord**
 
