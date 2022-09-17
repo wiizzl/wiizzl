@@ -5,12 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiizzl&label=Profile%20views&color=0e75b6&style=flat" alt="wiizzl" /> </p>
 
-- 🔭 I’m currently working on **Very BIG FiveM server**
+- 🔭 I’m currently working on : **Very BIG FiveM server**
 
-- 🌱 I’m currently learning **Somethings**
+- 🌱 I’m currently learning : **Somethings**
 
-- 💬 Ask me about **RageUI** and **Lua**
+- 💬 Ask me about : **RageUI** and **Lua**
 
-- 📫 How to reach me **wiizz#0028** on **Discord**
+- 📫 How to reach me : **wiizz#0028** on **Discord**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact : **I am Funny**
