@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiizzl&label=Profile%20views&color=0e75b6&style=flat" alt="wiizzl" /> </p>
 
-- 🔭 I’m currently working on : **Very BIG FiveM server** called **w_legacy**
+- 🔭 I’m currently working on : **Big FiveM server** called **w_legacy**
 
 - 🌱 I’m currently learning : **Somethings**
 
