@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiizzl&label=Profile%20views&color=0e75b6&style=flat" alt="wiizzl" /> </p>
 
-- 🔭 I’m currently working on : **FiveM server** called **w_legacy**
+- 🔭 I’m currently working on : **Building my shop**
 
 - 🌱 I’m currently learning : **Somethings**
 
-- 💬 Ask me about : **RageUI** and **Lua**
+- 💬 Ask me about : **RageUI**, **Lua** and **Discord.js**
 
 - 📫 How to reach me : **wiizz#0028** on **Discord**
 
