@@ -6,7 +6,7 @@ I'm an indie full-stack developer building my version of the digital world one s
 
    <p align="left">
       <a href="https://discord.gg/https://discord.gg/6kJTQFUy9T">
-         <img alt="discord" title="Join my discord !" src="https://img.shields.io/badge/1k-blue?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=gray"/></a> 
+         <img alt="discord" title="Join my discord !" src="https://img.shields.io/badge/Discord-blue?style=flat&logo=discord&logoColor=white"/></a> 
    </p>
 
 ---
