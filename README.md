@@ -7,11 +7,11 @@ I'm an indie full-stack developer building my version of the digital world one s
    <p align="left">
       <a href="https://discord.gg/https://discord.gg/6kJTQFUy9T">
          <img alt="discord" title="Join my discord !" src="https://img.shields.io/badge/1k-blue?style=flat&logo=discord&logoColor=white&label=Discord&labelColor=gray"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://github.com/wiizl">
          <img alt="views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=wiizzl&color=yellow&label=Profile views"/></a> 
       <a href="https://github.com/wiizzl?tab=followers">
          <img alt="followers" title="Follow me on Github !" src="https://custom-icon-badges.demolab.com/github/followers/wiizzl?color=236ad3&labelColor=gray&flat&logo=person-add label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/wiizzl?tab=repositories&sort=stargazers">
          <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/wiizzl?color=55960c&flat&label=Stars&labelColor=gray&logo=star"></a>
    </p>
 
