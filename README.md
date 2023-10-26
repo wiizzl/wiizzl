@@ -5,7 +5,7 @@
 I'm an indie full-stack developer building my version of the digital world one step at a time. All of the code you will find there are born from my mind and are designed to solve problems that I have for my project.
 
    <p align="left">
-      <a href="https://discord.gg/https://discord.gg/6kJTQFUy9T">
+      <a href="https://discord.gg/5K5CHmVnUb">
          <img alt="discord" title="Join my discord !" src="https://img.shields.io/badge/Discord-blue?style=flat&logo=discord&logoColor=white"/></a> 
    </p>
 
