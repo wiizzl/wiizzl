@@ -1,4 +1,4 @@
-# 🏄‍♂️ wiizzl
+# 🏄‍♂️ wiizz
 
 **`Digital multi-tool man`**
 
@@ -36,5 +36,5 @@ I'm an indie full-stack developer building my version of the digital world one s
 #
 
 <details>
- <summary><h3>👨‍💻 wiizl's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 wiizz's Coding Journey</h3></summary>
    I started my journey in programming as a typical, naive French student. Later on, I developed a strong passion for programming, initially embarking on my first projects using the FiveM tool by cfx.re. This allowed me to grasp the fundamentals of the digital world and inspired me to expand my skill set. Up to this point, I've completed various web projects, such as my school's website, and worked on various Lua and JavaScript scripts. I've also undertaken more comprehensive projects, particularly in Java, through the creation of Minecraft plugins. Don't wait up, because I'm coming.
