@@ -19,30 +19,22 @@ src="https://img.shields.io/github/followers/wiizzl?logo=github&style=for-the-ba
 
 - Backend
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=lua,nodejs,py,cs,js,ts,java,php"/>
-    </a>
+    <img src="https://skillicons.dev/icons?i=lua,nodejs,py,js,ts,java,php"/>
 </p>
 
 - Frontend
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,react,md"/>
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,css,react,md"/>
 </p>
 
 - Database
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 - Tools
 <p align="left">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,discord,bots"/>
-    </a>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,discord"/>
 </p>
 
 <br>
