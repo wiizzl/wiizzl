@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is wiizz
 =============================================================================================================================
 
-I touch on everything related to development
---------------------------------------------
-
 I started my journey in programming as a typical, naive French student. Later on, I developed a strong passion for programming, initially embarking on my first projects using the FiveM tool by cfx.re. This allowed me to grasp the fundamentals of the digital world and inspired me to expand my skill set. Up to this point, I've completed various web projects, such as my school's website, and worked on various Lua and JavaScript scripts. I've also undertaken more comprehensive projects, particularly in Java, through the creation of Minecraft plugins. Don't wait up, because I'm coming.
 
 * 🌍  I'm based in France
