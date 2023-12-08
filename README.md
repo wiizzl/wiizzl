@@ -8,8 +8,6 @@ I started my journey in programming as a typical, naive French student. Later on
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Web projects
 
-<a href="https://www.github.com/wiizzl" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/wiizzl?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/5K5CHmVnUb)
 
 ### Languages and Tools
