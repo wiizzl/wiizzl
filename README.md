@@ -12,12 +12,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - Backend
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=lua,nodejs,py,js,ts,java,php"/>
+    <img src="https://skillicons.dev/icons?i=lua,nodejs,py,ts,java,php"/>
 </p>
 
 - Frontend
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,react,md"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,md"/>
 </p>
 
 - Database
