@@ -13,8 +13,6 @@ I'm a 18-year-old student based in France, and I'm passionate about creating dig
 
 **Mobile Development:** React-native (Expo)
 
-**Version Control:** Git, Gitlab
-
 ## 📫 Contact me
 
 For a quick response, DM me on [Discord](https://dsc.bio/wiizz)
