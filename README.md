@@ -1,4 +1,4 @@
-### 👋🏻 Hi, I'm wiizz
+## 👋🏻 Hi, I'm wiizz
 
 I'm a 18-year-old student based in France, and I'm passionate about creating digital experience.
 
@@ -7,15 +7,10 @@ I'm a 18-year-old student based in France, and I'm passionate about creating dig
 
 ## 📦 Skills
 
-**Language:** [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) [TypeScript](https://www.typescriptlang.org/)
-
-**Frontend Development:** [React](https://react.dev/) [VueJs](https://vuejs.org/)
-
-**Backend Development:** [NodeJs](https://nodejs.org/en) [Firebase](https://firebase.google.com/)
-
-**Mobile Development:** [React-native](https://reactnative.dev/) [Expo](https://expo.dev/)
-
-**Version Control:** [Git](https://git-scm.com/) [GitLab](https://about.gitlab.com/)
+**Frontend Development:** React, Vue
+**Backend Development:** Node, Firebase
+**Mobile Development:** React-native (Expo)
+**Version Control:** Git, Gitlab
 
 ## 📫 Contact me
 
