@@ -8,8 +8,11 @@ I'm a 18-year-old student based in France, and I'm passionate about creating dig
 ## 📦 Skills
 
 **Frontend Development:** React, Vue
+
 **Backend Development:** Node, Firebase
+
 **Mobile Development:** React-native (Expo)
+
 **Version Control:** Git, Gitlab
 
 ## 📫 Contact me
