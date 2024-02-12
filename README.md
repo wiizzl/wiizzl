@@ -11,4 +11,4 @@ For a quick response, DM me on [Discord](https://dsc.bio/wiizz)
 
 ## 📊​ Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wiizzl)
+![Stats](https://github-readme-stats.vercel.app/api?username=wiizzl&theme=one_dark_pro)
