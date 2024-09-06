@@ -1,12 +1,11 @@
 ### 👋 Hi there, I'm Pierre
-![](https://i.imgur.com/VgrWDNu.png)
 
 I'm a 18-year-old student based in France, and I'm passionate about creating digital experience.
 
-Skills: Typescript / JavaScript
+Main skills: Typescript / JavaScript
 
-- 🔭 I’m currently working on an e-commerce website
-- 👯 I’m looking to collaborate on any react ecosystem project
+-   🔭 I’m currently working on an e-commerce website
+-   👯 I’m looking to collaborate on any react ecosystem project
 
 ## 📫 Contact me
 
