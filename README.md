@@ -2,14 +2,9 @@
 
 I'm a 18-year-old student based in France, and I'm passionate about creating digital experience.
 
-Main skills: Typescript / JavaScript
-
--   🔭 I’m currently working on an e-commerce website
--   👯 I’m looking to collaborate on any react ecosystem project
-
 ## 📫 Contact me
 
-For a quick response, DM me on [Discord](https://dsc.bio/wiizz).
+For a quick response, DM me on Discord (wiizzl).
 
 ## 📊​ Stats
 
