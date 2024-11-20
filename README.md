@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Pierre
 
-I'm a 18-year-old student based in France, and I'm passionate about creating digital experience.
+I'm a 19-year-old student based in France, and I'm passionate about creating digital experience.
 
 ## 📫 Contact me
 
