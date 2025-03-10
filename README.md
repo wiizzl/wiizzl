@@ -8,3 +8,5 @@
     background: friendly;
 }
 ```
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/wiizz?ext=activity&theme=nord)
