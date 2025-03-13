@@ -9,4 +9,4 @@
 }
 ```
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/wiizz?ext=activity&theme=nord)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/wiizz?ext=activity&theme=nord)](https://leetcode.com/u/wiizz/)
